@@ -8,3 +8,4 @@ RoboDK simulation with robot and vision (2d) pick and place
 - [ ] Jupyter Visu
 - [ ] Single Function
 - [ ] 3D Calibration
+- [ ] Connect with RoboDK Camera
