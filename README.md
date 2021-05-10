@@ -36,7 +36,7 @@ RoboDK simulation with robot and vision (2d) pick and place
 ![Logo](vision_visu.png)
 
 ### Initial Calibration is being done by using 4 additional red bricks with knows world locations.
-![Logo](calibration_red.png)
+![Logo](mono_camera_frame-Snapshot_Calibration.png)
 
 ![Logo](https://docs.opencv.org/master/homography_camera_displacement.png)
 
