@@ -5,7 +5,9 @@ RoboDK simulation with robot and vision (2d) pick and place
 
 - [x] Color Segementation
 - [x] Detection
-- [ ] Jupyter Visu
-- [ ] Single Function
-- [ ] 3D Calibration
-- [ ] Connect with RoboDK Camera
+- [x] Jupyter Visu
+- [x] 3D Calibration
+- [x] Connect with RoboDK Camera
+- [x] Move Robot
+- [x] Build Simpsons
+- [x] Plug Everything together 
