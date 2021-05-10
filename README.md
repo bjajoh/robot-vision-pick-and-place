@@ -11,3 +11,7 @@ RoboDK simulation with robot and vision (2d) pick and place
 - [x] Move Robot
 - [x] Build Simpsons
 - [x] Plug Everything together 
+
+###
+
+![Logo](vision_visu_1_input.png)
