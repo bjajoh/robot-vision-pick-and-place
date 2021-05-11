@@ -1,5 +1,6 @@
 # robot-vision-pick-and-place
-RoboDK simulation with robot and vision (2d) pick and place
+RoboDK simulation with robot and vision (2d) pick and place for AAU (Aalborg Univserity) Robot Vision Course.
+https://moduler.aau.dk/course/2020-2021/ESNVGISK2K2?lang=en-GB
 
 ### Vision To-Do
 
